@@ -1,6 +1,6 @@
 ### Cicada
 
-Official website: https://cicadanft.com
+Official Game website: https://cicadatactics.com
 
 Smart Contract Store Address: addr1w9ellh6a4xf3gfctsd9dwvfheq85ecyxhs5k9t2skmk0ylgtluhpm
 
